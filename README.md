@@ -1,8 +1,8 @@
 # About
 
-Welcome! This is [Apache Pulsar](http://github.com/apache/pulsar/) Chinese Community Workspace. We start one Bi-weekly meeting for Pulsar Chinese Community, you can get the latest news on Pulsar, and discuss questions, share your views. If you have any suggestion which can help build the community better, please let us know.
+Welcome! This is [Apache Pulsar](http://github.com/apache/pulsar/) Chinese User Group Workspace. We start one Bi-weekly meeting for Pulsar Chinese User Group, you can get the latest news on Pulsar, and discuss questions, share your views. If you have any suggestion which can help build the community better, please let us know.
 
-## Pulsar CN Community Meeting
+## Pulsar CN User Group Meeting
 
 - Time: Bi-weekly meeting on every Wednesday 8:00 PM -- 9:00 PM (Beijing)
 - Zoom Link: [https://us02web.zoom.us/j/81795527851](https://us02web.zoom.us/j/81795527851)
