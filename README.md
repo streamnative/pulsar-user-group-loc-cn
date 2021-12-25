@@ -3,42 +3,28 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-本仓库是[Apache Pulsar](http://github.com/apache/pulsar/) 中文用户组工作空间，用于中文用户组成员沟通与协作事项记录。在中文用户组，我们每个月定期举办 Apache Pulsar 中文用户组会议，方便用户组成员交流，沟通在使用和贡献 Apache Pulsar 中的问题与疑惑。欢迎你参与进来！
+本仓库是 [Apache Pulsar](http://github.com/apache/pulsar/) 中文用户组工作空间，用于中文用户组成员沟通与协作事项记录。欢迎你参与进来！
+
+## 目录结构
 
 
-## 中文用户组会议
+├── [Developer_and_User_Monthly_Meeting](./Developer_and_User_Monthly_Meeting)  // `开发者与用户会议`</br>
+├── [Events](./Events)                                     // `Meetup/Release Party/贡献者聚会`</br>
+├── [Translation](./Translation)                         // `技术博文翻译`</br>
+├── [Job_Board](./Job_Board)                           // `职位广场`</br>
+├── SIG                                                 // `特别兴趣小组`</br>
+    ├── [AoP](./SIG/AoP)                             // `AMQP on Pulsar 兴趣小组`</br>
+    ├── [Function_Mesh](/.SIG/Function_Mesh)                 // `Pulsar Functions/Function Mesh 兴趣小组`</br>
+    ├── [KoP](./SIG/KoP)                             // `Kafka on Pulsar 兴趣小组`</br>
+    ├── [MoP](./SIG/MoP)                             // `MQTT on Pulsar 兴趣小组`</br>
+    ├── [Pulsar_Flink_Connector](./SIG/Pulsar_Flink_Connector)          // `Pulsar Flink 连接器兴趣小组`</br>
+    ├── [Pulsar_Go_Client](./SIG/Pulsar_Go_Client)                // `Pulsar Go Client 兴趣小组`</br>
+├── [StreamNative_Ambassador_Program](./StreamNative_Ambassador_Program)     // `StreamNative 社区大使计划`
 
-- 时间：每个月最后一周的星期三，晚 8:00（UTC+8，北京时间）
-- 过往会议视频记录
-	- [#1: 08/26,2020](https://github.com/streamnative/pulsar-community-loc-cn/issues/1)
-	- [#2: 09/09,2020](https://github.com/streamnative/pulsar-community-loc-cn/issues/2)
-	- [#3: 09/23,2020](https://github.com/streamnative/pulsar-community-loc-cn/issues/5)
-	- [#4: 10/21,2020](https://github.com/streamnative/pulsar-community-loc-cn/issues/7)
 
 ## 加入我们
 
 你可以扫码添加用户组机器人为好友，与我们取得联络，并加入进来：
 
-<img src="./streamnative-bot.jpeg">
+<img src="./streamnative-bot.jpeg" width="200px">
 
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Tango2018cc"><img src="https://avatars.githubusercontent.com/u/76191133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guowei Tian</b></sub></a><br /><a href="#blog-Tango2018cc" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://github.com/hapihu"><img src="https://avatars.githubusercontent.com/u/20364527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hapihu</b></sub></a><br /><a href="#translation-hapihu" title="Translation">🌍</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
