@@ -1,6 +1,6 @@
 # 关于
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 本仓库是 [Apache Pulsar](http://github.com/apache/pulsar/) 中文用户组工作空间，用于中文用户组成员沟通与协作事项记录。欢迎你参与进来！
