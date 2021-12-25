@@ -1,8 +1,8 @@
 {
   "files": [
-    "README.md"
+    "Translation/README.md"
   ],
-  "imageSize": 100,
+  "imageSize": 60,
   "commit": false,
   "contributors": [
     {
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 9,
   "projectName": "pulsar-user-group-loc-cn",
   "projectOwner": "streamnative",
   "repoType": "github",
