@@ -8,7 +8,7 @@
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -18,13 +18,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-      <td align="center"><a href="https://github.com/Tango2018cc"><img src="https://avatars.githubusercontent.com/u/76191133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guowei Tian</b></sub></a><br /><a href="#blog-Tango2018cc" title="Blogposts">📝</a></td>
-      <td align="center"><a href="https://github.com/hapihu"><img src="https://avatars.githubusercontent.com/u/20364527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hapihu</b></sub></a><br /><a href="#translation-hapihu" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Tango2018cc"><img src="https://avatars.githubusercontent.com/u/76191133?v=4?s=60" width="60px;" alt=""/><br /><sub><b>Guowei Tian</b></sub></a><br /><a href="#blog-Tango2018cc" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/hapihu"><img src="https://avatars.githubusercontent.com/u/20364527?v=4?s=60" width="60px;" alt=""/><br /><sub><b>hapihu</b></sub></a><br /><a href="#translation-hapihu" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/kivenwei"><img src="https://avatars.githubusercontent.com/u/12410478?v=4?s=60" width="60px;" alt=""/><br /><sub><b>kivenwei</b></sub></a><br /><a href="#translation-kivenwei" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/wangjialing218"><img src="https://avatars.githubusercontent.com/u/65590138?v=4?s=60" width="60px;" alt=""/><br /><sub><b>WangJialing</b></sub></a><br /><a href="#translation-wangjialing218" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JueShanCoder"><img src="https://avatars.githubusercontent.com/u/67142106?v=4?s=60" width="60px;" alt=""/><br /><sub><b>JueShan</b></sub></a><br /><a href="#translation-JueShanCoder" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/yangxuan74"><img src="https://avatars.githubusercontent.com/u/20755861?v=4?s=60" width="60px;" alt=""/><br /><sub><b>yangxuan74</b></sub></a><br /><a href="#translation-yangxuan74" title="Translation">🌍</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
