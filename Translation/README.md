@@ -17,13 +17,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
       <td align="center"><a href="https://github.com/Tango2018cc"><img src="https://avatars.githubusercontent.com/u/76191133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guowei Tian</b></sub></a><br /><a href="#blog-Tango2018cc" title="Blogposts">📝</a></td>
-          <td align="center"><a href="https://github.com/hapihu"><img src="https://avatars.githubusercontent.com/u/20364527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hapihu</b></sub></a><br /><a href="#translation-hapihu" title="Translation">🌍</a></td>
-            </tr>
-            </table>
+      <td align="center"><a href="https://github.com/hapihu"><img src="https://avatars.githubusercontent.com/u/20364527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hapihu</b></sub></a><br /><a href="#translation-hapihu" title="Translation">🌍</a></td>
+  </tr>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
