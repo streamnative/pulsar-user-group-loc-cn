@@ -67,6 +67,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "AlphaWang",
+      "name": "Alpha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3367744?v=4",
+      "profile": "http://alphawang.github.io",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 9,
