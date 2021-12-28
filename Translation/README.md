@@ -8,7 +8,7 @@
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -25,6 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/JueShanCoder"><img src="https://avatars.githubusercontent.com/u/67142106?v=4?s=60" width="60px;" alt=""/><br /><sub><b>JueShan</b></sub></a><br /><a href="#translation-JueShanCoder" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/yangxuan74"><img src="https://avatars.githubusercontent.com/u/20755861?v=4?s=60" width="60px;" alt=""/><br /><sub><b>yangxuan74</b></sub></a><br /><a href="#translation-yangxuan74" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/602763061"><img src="https://avatars.githubusercontent.com/u/38520920?v=4?s=60" width="60px;" alt=""/><br /><sub><b>602763061</b></sub></a><br /><a href="#translation-602763061" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/EAHITechnology"><img src="https://avatars.githubusercontent.com/u/45755982?v=4?s=60" width="60px;" alt=""/><br /><sub><b>大云Malik</b></sub></a><br /><a href="#translation-EAHITechnology" title="Translation">🌍</a></td>
   </tr>
 </table>
 
