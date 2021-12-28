@@ -67,6 +67,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "dislazy",
+      "name": "Jack Song",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30426054?v=4",
+      "profile": "https://bosong.online",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 9,
