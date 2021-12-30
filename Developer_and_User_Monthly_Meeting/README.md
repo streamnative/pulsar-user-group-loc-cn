@@ -14,12 +14,12 @@
 
 | 时间| 回顾资料 |
 | ---- | ---- |
-|2021-11| 回顾视频： </br> 会议文档：|
-|2021-10| 回顾视频： </br> 会议文档：|
-|2021-09| 回顾视频： </br> 会议文档：|
-|2021-08| 回顾视频： </br> 会议文档：|
-|2021-07| 回顾视频： </br> 会议文档：|
-|2021-06| 回顾视频： </br> 会议文档：|
-|2021-05| 回顾视频： </br> 会议文档：|
-|2021-04| 回顾视频： </br> 会议文档：|
-|2021-03| 回顾视频： </br> 会议文档：|
+|2021-11| 回顾视频：https://www.bilibili.com/video/BV1eL411M7Ka  </br> 会议文档：https://docs.qq.com/doc/DZExNc1l5c21VemFZ| 
+|2021-10| 回顾视频：https://www.bilibili.com/video/BV1zT4y1R7nc/ </br> 会议文档：https://docs.qq.com/doc/DZG1sblJSVUZHb3ds |
+|2021-09| 回顾视频：https://www.bilibili.com/video/BV1Nq4y1Z7zJ/ </br> 会议文档：https://docs.qq.com/doc/DZGxtaWJkdlpVVXJj |
+|2021-08| 回顾视频：https://www.bilibili.com/video/BV1bq4y1D7RE/ </br> 会议文档：https://docs.qq.com/doc/DZG5ZbFhrZmtWQ3NW |
+|2021-07| 回顾视频：https://www.bilibili.com/video/BV12X4y1c7H4/ </br> 会议文档：https://docs.qq.com/doc/DZERoaEtaQUdPTFFk |
+|2021-06| 回顾视频：https://www.bilibili.com/video/BV1Rq4y1s7E5/ </br> 会议文档：https://docs.qq.com/doc/DZGZ3dXh3T3lXZmNG|
+|2021-05| 回顾视频：https://www.bilibili.com/video/BV1Uv411V7MM/ </br> 会议文档：|
+|2021-04| 回顾视频：https://www.bilibili.com/video/BV1X64y1m7aT/ </br> 会议文档：|
+|2021-03| 回顾视频：https://www.bilibili.com/video/BV1Qi4y1K7Nz/ </br> 会议文档：|
