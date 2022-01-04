@@ -8,13 +8,11 @@
 
 | 发布时间 | 岗位机会 |
 | --- | --- |
-| 2021/12 | |
-| 2021/11 | |
-| 2021/10 | |
-| 2021/09 | |
-| 2021/08 | |
-| 2021/07 | |
-| 2021/06 | |
-| 2021/05 | |
-| 2021/04 | |
-| 2021/03 | |
+| 2021/12 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/122 |
+| 2021/11 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/93 |
+| 2021/07 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/24 |
+| 2021/06 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/22 |
+| 2021/04 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/18 |
+| 2021/03 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/15 |
+| 2021/02 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/14 |
+| 2021/02 |https://github.com/streamnative/pulsar-user-group-loc-cn/issues/13 |
