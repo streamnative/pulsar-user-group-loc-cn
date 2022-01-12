@@ -28,8 +28,8 @@
 | 时间 | Contributor Party/贡献者聚会 | 报名/回顾 |
 | --- | --- | ---|
 | 2021.01 | Contributor Party 北京站 | - |
-| 2021.01 | Contributor Party 深圳站 | https://mp.weixin.qq.com/s/jacLGD1Vaaoe6bj2cD6lHQ |
-| 2021.01 | Contributor Party 广州站 | https://mp.weixin.qq.com/s/jacLGD1Vaaoe6bj2cD6lHQ |
+| 2021.08 | Contributor Party 深圳站 | https://mp.weixin.qq.com/s/jacLGD1Vaaoe6bj2cD6lHQ |
+| 2021.08 | Contributor Party 广州站 | https://mp.weixin.qq.com/s/jacLGD1Vaaoe6bj2cD6lHQ |
 | 2021.01 | Contributor Party 上海站 | - |
 | 2021.01 | Contributor Party 苏州站 | - |
 | 2021.01 | Contributor Party 杭州站 | - |
