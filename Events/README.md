@@ -19,7 +19,7 @@
 
 | 时间 | Release Party 名称 | 报名/回顾 |
 | --- | --- | --- |
-| 2021.08 | Pulsar 2.8.0 Release Party 北京站 | https://mp.weixin.qq.com/s/RiIUhUxYHsLQhlqoAUXT2w |
+| 2021.09 | Pulsar 2.8.0 Release Party 北京站 | https://mp.weixin.qq.com/s/RiIUhUxYHsLQhlqoAUXT2w |
 | 2021.07 | Pulsar 2.8.0 Release Party 广州站 | https://mp.weixin.qq.com/s/jacLGD1Vaaoe6bj2cD6lHQ |
 | 2021.07 | Pulsar 2.8.0 Release Party 深圳站 | https://mp.weixin.qq.com/s/jacLGD1Vaaoe6bj2cD6lHQ |
 
