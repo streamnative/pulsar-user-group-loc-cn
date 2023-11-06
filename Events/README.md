@@ -6,6 +6,7 @@
 
 | 时间| Meetup 活动 |回顾视频与资料 |
 | ---- | ---- | ---- |
+|2023| Apache Pulsar Meetup Beijing 2023 | [2023-pulsar-meetup-beijing](2023-pulsar-meetup-beijing) |
 |2021| Apache Pulsar x Apache APISIX 在线 Meetup |https://mp.weixin.qq.com/s/EGWHgJKLFSairyOETR3wiQ  |
 |2021| Apache Pulsar x Apache Hudi Meetup@杭州 |https://www.bilibili.com/video/BV1TA411w7Yz  |
 |2021| Apache Doris x Pulsar Meetup 北京站 |https://mp.weixin.qq.com/s/qV1_zqQ7DV_XZe2jWJA81A  |
@@ -35,6 +36,7 @@
 | 2021.02 | Contributor Party 杭州站 | https://mp.weixin.qq.com/s/6E8q2DPcatsreLYnVnv9bg |
 
 #  Pulsar Tea Party
+
 | 时间 |  Pulsar Tea Party | 报名/回顾 |
 | --- | --- | ---|
 | 2021.01 | Pulsar Tea Party 北京站 | https://mp.weixin.qq.com/s/WwYVJ0-vNuLwHi-ioB1Oaw |
